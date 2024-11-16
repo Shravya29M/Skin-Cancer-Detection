@@ -29,14 +29,10 @@ The models were trained and validated on publicly available datasets:
    cd skin-cancer-detection
    ```
 
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-3. **Run the model**:
+2. **Run the model**:
    ```bash
-   python train.py --model AccuDermCNN
+   python custom_cnn.py --model AccuDermCNN
    ```
 
 4. **Test on custom images**:
