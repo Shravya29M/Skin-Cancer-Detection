@@ -18,9 +18,9 @@ Skin cancer detection has traditionally struggled with bias due to limited repre
 - **Focus on Inclusion**: Tested on diverse datasets to ensure accurate detection across different skin tones.
 
 ## Dataset
-The models were trained and validated on publicly available datasets:
+The models were trained and validated on the below datasets:
 - [ISIC Dataset](https://isic-archive.com/)
-- Additional augmented datasets for skin tones underrepresented in conventional medical datasets.
+- Additional augmented datasets for skin tones underrepresented in conventional medical datasets were sourced from various hospitals and websites.
 
 ## Usage
 1. **Clone the repository**:
